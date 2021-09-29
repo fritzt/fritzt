@@ -13,7 +13,7 @@
 
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=ffff00)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=ffff00)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=ffff00)
+![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=C++&logoColor=white&color=ffff00)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffff00)
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=ffff00)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=ffff00)
