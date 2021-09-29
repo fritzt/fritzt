@@ -1,4 +1,4 @@
-# fritzt
+# Thibaud Fritz
 
 ## Technologies & Tools
 
