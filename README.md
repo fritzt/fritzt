@@ -1,5 +1,14 @@
 # Thibaud Fritz
 
+## Contributions
+
+During my time at MIT, I contributed to the ![GEOS-Chem](https://geos-chem.seas.harvard.edu/) chemistry transport model in various ways. 
+
+- Coupling of ![CESM2](https://www.cesm.ucar.edu/models/cesm2/) global climate model with the GEOS-Chem chemistry module (some more description ![here](http://wiki.seas.harvard.edu/geos-chem/index.php/Coupling_GEOS-Chem_with_NCAR_models)), allowing for a fair intercomparison between GEOS-Chem and the native CESM2 chemistry option, CAM-Chem. The most recent coupling interfaces can be found ![here](https://github.com/CESM-GC/).
+- Extension of the ![GEOS-Chem Adjoint](http://wiki.seas.harvard.edu/geos-chem/index.php/GEOS-Chem_Adjoint) to include stratospheric processes. I implemented the Unified Chemistry eXtension (UCX) in the GEOS-Chem Adjoint, unifying the tropospheric and stratospheric chemical representation under one common framework.
+- I am the original developer of the APCEMM aircraft plume model, which models the in-plume chemical and microphysical processes occuring in an aircraft wake. Some results can be found ![here](https://acp.copernicus.org/articles/20/5697/2020/acp-20-5697-2020.html).
+
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=0000ff)
